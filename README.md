@@ -3,4 +3,4 @@
 Simple session cart in Codeigniter
 
 ## Demo
-> http://ci-cart.demo.momo.my.id/
+> https://codeigniter-session-cart.herokuapp.com/
